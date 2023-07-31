@@ -7,7 +7,7 @@ html {
   padding: 0;
 }
 .landing {
-  height: 30em;
+  height: 38em;
   background-image: url(/images/soup.jpg);
   background-size: 100% 100%;
   background-repeat: no-repeat;
@@ -54,5 +54,8 @@ hr {
 }
 .list ul li,
 .list ol li {
-  margin: 5px 5px 10px;
+  margin: 5px;
+}
+.down{
+    margin-bottom: 50px;
 }
